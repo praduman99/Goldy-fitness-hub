@@ -1,0 +1,18 @@
+.formbutton{
+    background-color: darkgreen;
+    border: none;
+    padding: .5rem 2rem .5rem 2rem ;
+    border-radius:2rem;
+    text-align: center;
+    font-weight: 600; 
+    color:white;
+}
+.text{
+    color: darkgreen;
+}
+.text:hover{
+    cursor:default;
+}
+.formbutton:hover{
+    text-shadow: white 0px 0px 20px;
+}

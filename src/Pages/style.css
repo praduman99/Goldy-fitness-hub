@@ -1,0 +1,265 @@
+.Header_Container{
+    height: 100vh auto;
+    width: 100%;
+    background-image: url("../assets/images/img6.jpg");
+    background-position: center;
+    background-position-y: 1px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15rem;
+    color: white;
+    margin-bottom: 5rem;
+  
+
+}
+.animate__animated{
+    animation-duration:2s ;
+  
+}
+
+.hompage_jmbotron{
+    padding: 5rem;
+    width: 100%;
+    background-image: url("../assets/images/img2.jpg");
+    background-position: center;
+    background-position-y: 1px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+    font-size: 4rem;
+   /* text-shadow: 0px 0px 5px  white ; */
+   background-blend-mode: hard-light;
+   background-color: black;
+ 
+
+} 
+
+.Header_heading{
+    font-size: 5rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: -2rem;
+    z-index: 999;margin-bottom: -1rem;
+    text-align: center;
+    text-shadow: black 3px 1px 1px ;
+   
+}
+.Heading_Text{
+    text-align: center;
+    text-shadow: black 3px 1px 1px ;
+    width: 50%;
+   
+}
+.Heading_Button {
+    background-color: darkorange;
+    border: none;
+    padding: .5rem 3rem .5rem 3rem ;
+    border-radius:1rem;
+    text-align: center;
+    font-weight: 600; 
+    color: white;
+    box-shadow: darkorange  0px 0px 10px ;
+
+}
+.Heading_Button:hover{
+    text-shadow: white 0px 0px 20px;
+    box-shadow: darkorange  0px 0px 30px ;
+}
+.Content_Heading{
+font-size: 2rem;
+margin: 3rem 1rem 1rem 1rem ;
+font-weight: 550;
+}
+
+
+
+
+div::-webkit-scrollbar {
+    width: 0px; /* remove scrollbar space /
+    background: transparent; / optional: just make scrollbar invisible /
+    }
+    / optional: show position indicator in red */
+    scroll-behavior: smooth;
+}
+
+
+
+.content_slab{
+background-color: black;
+text-align: center;
+ height: 300px;
+ color:white;
+}
+
+
+.Iconname{
+   font-size: 1rem;
+   font-family:monospace;
+}
+.Hover{}
+.Hover:hover{
+    color: darkorange;
+    cursor: context-menu;
+}
+ 
+
+
+/* About us  */
+
+.Header_background{
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1502239608882-93b729c6af43?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80");
+    background-position: center;
+    background-position-y: 1px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15rem;
+    color: white;
+    margin-bottom: 5rem;
+    clip-path: polygon(50% 100%, 0 0, 100% 0);
+}
+
+.Service_Header_background{
+    height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1497091071254-cc9b2ba7c48a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80");
+    background-position: center;
+    background-position-y: 1px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15rem;
+    color: white;
+    
+
+}
+
+:hover{
+    cursor:default;
+}
+
+.aboutHover:hover{
+   font-size: 1rem;
+}
+
+
+/* Freelancer profile  */
+
+.Heading_FreelancerProfile{
+font-size: 3rem;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.Profile_Image{
+border-radius: 10px;
+}
+.Heading_Data_Profile{
+    text-align: center;
+}
+.Heading_Text_Profile{
+    font-size:15px;
+    color: darkgray;
+    padding: 1rem;
+}
+.Price_Profile{
+  background: linear-gradient(rgb(255, 143, 7),rgb(87, 4, 4));
+font-size: 2rem;
+color: aliceblue;
+margin: 15px;
+text-shadow: 0px 0px 5px white;
+
+}
+.Price_Profile:hover{
+    text-shadow: 0px 0px 5px white;
+}
+
+.Price_card_heading{
+text-align:center;
+color: darkorange;
+
+}
+.Profile_services{
+  
+    padding: 6px;
+    border-radius:10px;
+    margin: 5px;
+    /* background-color:rgba(201, 202, 202, 0.659); */
+    background-color: rgb(51, 48, 48);
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.Layout{
+    background-color: white;
+    margin-bottom:1rem;
+}
+.Bio_Headings_Profiles{
+    font-weight: bold;
+    font-size: 1rem;
+}.Bio_Text_Profiles{
+    font-size: 1rem;
+    padding: 2px;
+}
+
+.PriceTag_profile{
+
+ font-size: 2rem;
+ margin-top: 4rem;
+}
+.carousalhover:hover{
+
+    cursor: grabbing;
+}
+
+
+/* categories page */
+.Categories_Header_background{
+    height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1522836924445-4478bdeb860c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80 ");
+    background-position: center;
+    background-position-y: 1px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15rem;
+    color:black;
+    width: auto;
+    
+
+}
+.Categories_Header_heading{
+    font-size: 5rem;
+    font-family: 'Times New Roman', Times, serif;
+
+    z-index: 999;margin-bottom: -2rem;
+    text-align: center;
+   text-shadow: 0px 0px 5px black;
+   
+}
+
+.Explore_card{
+   height: 300px;
+    background-image: url("https://images.unsplash.com/photo-1522836924445-4478bdeb860c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80 ");
+    background-position: center;
+    background-position-y: 1px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
+    width: auto;
+    
+}
+
+
+.Explore_Blog_Heading
+{
+    font-weight: 800;
+    color: black;
+    font-size: 1rem;
+}
