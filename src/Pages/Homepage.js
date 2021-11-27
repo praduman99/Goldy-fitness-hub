@@ -10,6 +10,13 @@ import img3 from '../assets/images/img3.jpg'
 
 import img6 from '../assets/images/img6.jpg'
 import goldysir from '../assets/images/goldysir.jpeg'
+import simg1 from '../assets/images/students/1.jpeg'
+import simg2 from '../assets/images/students/2.jpeg'
+import simg3 from '../assets/images/students/3.jpeg'
+import simg4 from '../assets/images/students/4.jpeg'
+import simg5 from '../assets/images/students/5.jpeg'
+import simg6 from '../assets/images/students/6.jpeg'
+
 
 import Rohitsir from '../assets/images/rohitsir.png'
 import { Card, Avatar } from 'antd';
@@ -33,22 +40,14 @@ const Homepage = () => {
         <div>
             <div>
                 <h3 style={contentStyle}>RV-FITNESS</h3>
-                {/* <Carousel autoplay style={{ width: "100%" }} pauseOnHover={false} dots={false}>
-
-                    {[img2, img4, img5, img6].map((img, indx) => {
-                        return (<div key={indx} style={{ top: 0, left: 0, background: 'black', opacity: ".5" }}>
-                            <Image src={img} preview={false} height='auto' width="100%" style={{ position: "center" }} />
-                        </div>)
-                    })}
-
-                </Carousel> */}
+                
                 <div className="Header_Container">
                 <Row justify="center">
                                 <div>
-                                    <h1 className="Header_heading"> Be Stronger Than Your Excuse !</h1>
+                                    <h1 className="Header_heading animate__animated animate__bounceInUp"> Be Stronger Than Your Excuse !</h1>
                                     <Divider type="horizontal" style={{ color: "darkorange", fontWeight: "900", fontSize: "2rem" }}>___________</Divider>
                                     <div style={{ display: "flex", justifyContent: "center" }}>
-                                        <p className="Heading_Text" >Affordable Best Freelance Music Producer & Composer and many more Services. Hire a Best Music Frelancer today and get your dreams true by making creating music projects.</p>
+                                        <p className="Heading_Text  animate__animated animate__bounceInDown" >Affordable Best Freelance Music Producer & Composer and many more Services. Hire a Best Music Frelancer today and get your dreams true by making creating music projects.</p>
                                     </div>
                                     <div style={{ textAlign: "center", paddingBottom: "10rem" }}>
                                         {/* <Link to="Categories">
@@ -64,9 +63,10 @@ const Homepage = () => {
             <div>
                 <h1 style={{ animation: "animate__bounceInLeft", textAlign: 'center' }}>Trainers</h1>
                 <div>
-                    <Row justify={'center'}>
-                        <Col>
+                    <Row justify={'center'} gutter={50}>
+                        <Col  className="animate__animated animate__backInRight ">
                             <Card
+                            className=" animate__animated animate__pulse"
                                 style={{ width: '18rem' }}
                                 cover={
                                     <img
@@ -87,8 +87,9 @@ const Homepage = () => {
                                 />
                             </Card>,
                         </Col>
-                        <Col>
+                        <Col className="animate__animated animate__backInLeft ">
                             <Card
+                              className=" animate__animated animate__pulse"
                                 style={{ width: '18rem' }}
                                 cover={
                                     <img
@@ -117,11 +118,25 @@ const Homepage = () => {
                         <h1 className="hompage_jmbotron">One Day or Day One You decide   </h1>
 
                     </Row>
-                    <Row>
-
-                        <h1>
-                            Students
+                    <h1 style={{textAlign:'center'}} className="animate__animated animate__bounce animate__infinite	infinite">
+                          Some Of Trained  Students
                         </h1>
+                    <Row gutter={20}justify={'center'}>
+
+                                   
+                       
+                       
+                        <Col span={18}>
+                        <Carousel autoplay pauseOnHover={false} dots={false}>
+
+                    {[simg1,simg2,simg3,simg4,simg5,simg6].map((img, indx) => {
+                        return (<div key={indx} style={{ top: 0, left: 0, background: 'black', opacity: ".5" }}>
+                            <Image src={img} preview={false} height='auto' width="100%" style={{ position: "center" }} />
+                        </div>)
+                    })}
+
+                </Carousel>
+                </Col>
                     </Row>
                 </div>
 
