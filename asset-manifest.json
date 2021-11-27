@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rvFitness/static/css/main.343d3af9.chunk.css",
-    "main.js": "/rvFitness/static/js/main.a4d3ea30.chunk.js",
-    "main.js.map": "/rvFitness/static/js/main.a4d3ea30.chunk.js.map",
+    "main.js": "/rvFitness/static/js/main.05d9520d.chunk.js",
+    "main.js.map": "/rvFitness/static/js/main.05d9520d.chunk.js.map",
     "runtime-main.js": "/rvFitness/static/js/runtime-main.a307254f.js",
     "runtime-main.js.map": "/rvFitness/static/js/runtime-main.a307254f.js.map",
     "static/css/2.38abb764.chunk.css": "/rvFitness/static/css/2.38abb764.chunk.css",
@@ -14,6 +14,12 @@
     "static/css/2.38abb764.chunk.css.map": "/rvFitness/static/css/2.38abb764.chunk.css.map",
     "static/css/main.343d3af9.chunk.css.map": "/rvFitness/static/css/main.343d3af9.chunk.css.map",
     "static/js/2.1155c57d.chunk.js.LICENSE.txt": "/rvFitness/static/js/2.1155c57d.chunk.js.LICENSE.txt",
+    "static/media/1.d26f73b2.jpeg": "/rvFitness/static/media/1.d26f73b2.jpeg",
+    "static/media/2.bb439a0b.jpeg": "/rvFitness/static/media/2.bb439a0b.jpeg",
+    "static/media/3.c73a10ce.jpeg": "/rvFitness/static/media/3.c73a10ce.jpeg",
+    "static/media/4.03e4227e.jpeg": "/rvFitness/static/media/4.03e4227e.jpeg",
+    "static/media/5.79e19971.jpeg": "/rvFitness/static/media/5.79e19971.jpeg",
+    "static/media/6.5c974352.jpeg": "/rvFitness/static/media/6.5c974352.jpeg",
     "static/media/goldysir.c62a7295.jpeg": "/rvFitness/static/media/goldysir.c62a7295.jpeg",
     "static/media/style.css": "/rvFitness/static/media/img6.18286314.jpg",
     "static/media/img3.69b8e7ba.jpg": "/rvFitness/static/media/img3.69b8e7ba.jpg",
@@ -28,6 +34,6 @@
     "static/css/2.38abb764.chunk.css",
     "static/js/2.1155c57d.chunk.js",
     "static/css/main.343d3af9.chunk.css",
-    "static/js/main.a4d3ea30.chunk.js"
+    "static/js/main.05d9520d.chunk.js"
   ]
 }
