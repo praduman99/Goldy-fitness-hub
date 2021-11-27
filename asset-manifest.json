@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rvFitness/static/css/main.343d3af9.chunk.css",
+    "main.js": "/rvFitness/static/js/main.e6e3c577.chunk.js",
+    "main.js.map": "/rvFitness/static/js/main.e6e3c577.chunk.js.map",
+    "runtime-main.js": "/rvFitness/static/js/runtime-main.6d219859.js",
+    "runtime-main.js.map": "/rvFitness/static/js/runtime-main.6d219859.js.map",
+    "static/css/2.38abb764.chunk.css": "/rvFitness/static/css/2.38abb764.chunk.css",
+    "static/js/2.39caf442.chunk.js": "/rvFitness/static/js/2.39caf442.chunk.js",
+    "static/js/2.39caf442.chunk.js.map": "/rvFitness/static/js/2.39caf442.chunk.js.map",
+    "static/js/3.ad7751ca.chunk.js": "/rvFitness/static/js/3.ad7751ca.chunk.js",
+    "static/js/3.ad7751ca.chunk.js.map": "/rvFitness/static/js/3.ad7751ca.chunk.js.map",
+    "index.html": "/rvFitness/index.html",
+    "static/css/2.38abb764.chunk.css.map": "/rvFitness/static/css/2.38abb764.chunk.css.map",
+    "static/css/main.343d3af9.chunk.css.map": "/rvFitness/static/css/main.343d3af9.chunk.css.map",
+    "static/js/2.39caf442.chunk.js.LICENSE.txt": "/rvFitness/static/js/2.39caf442.chunk.js.LICENSE.txt",
+    "static/media/goldysir.c62a7295.jpeg": "/rvFitness/static/media/goldysir.c62a7295.jpeg",
+    "static/media/style.css": "/rvFitness/static/media/img6.18286314.jpg",
+    "static/media/img3.69b8e7ba.jpg": "/rvFitness/static/media/img3.69b8e7ba.jpg",
+    "static/media/img4.7332e136.jpg": "/rvFitness/static/media/img4.7332e136.jpg",
+    "static/media/img5.f7c56bd6.jpg": "/rvFitness/static/media/img5.f7c56bd6.jpg",
+    "static/media/logo.514d9aa4.png": "/rvFitness/static/media/logo.514d9aa4.png",
+    "static/media/logo.6ce24c58.svg": "/rvFitness/static/media/logo.6ce24c58.svg",
+    "static/media/rohitsir.61df9f13.png": "/rvFitness/static/media/rohitsir.61df9f13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d219859.js",
+    "static/css/2.38abb764.chunk.css",
+    "static/js/2.39caf442.chunk.js",
+    "static/css/main.343d3af9.chunk.css",
+    "static/js/main.e6e3c577.chunk.js"
+  ]
+}
