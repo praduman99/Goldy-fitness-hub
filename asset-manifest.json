@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rvFitness/static/css/main.343d3af9.chunk.css",
-    "main.js": "/rvFitness/static/js/main.89167e79.chunk.js",
-    "main.js.map": "/rvFitness/static/js/main.89167e79.chunk.js.map",
+    "main.js": "/rvFitness/static/js/main.e949e80f.chunk.js",
+    "main.js.map": "/rvFitness/static/js/main.e949e80f.chunk.js.map",
     "runtime-main.js": "/rvFitness/static/js/runtime-main.a307254f.js",
     "runtime-main.js.map": "/rvFitness/static/js/runtime-main.a307254f.js.map",
     "static/css/2.38abb764.chunk.css": "/rvFitness/static/css/2.38abb764.chunk.css",
@@ -35,6 +35,6 @@
     "static/css/2.38abb764.chunk.css",
     "static/js/2.c50aa00d.chunk.js",
     "static/css/main.343d3af9.chunk.css",
-    "static/js/main.89167e79.chunk.js"
+    "static/js/main.e949e80f.chunk.js"
   ]
 }
