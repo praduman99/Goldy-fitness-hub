@@ -7,13 +7,13 @@ import {Link} from 'react-router-dom'
 const iconstyle = {
     fontSize: "1rem",
     paddingRight: "10px",
-    color: "darkorange"
+    color: "darkgreen"
 
 
 }
 const Footertext = {
     fontSize: "1rem",
-    color: "darkorange",
+    color: "darkgreen",
     textAlign: "center",
     fontWeight: "Bold",
     marginTop: "2rem"
@@ -23,16 +23,16 @@ const Footertext = {
 const Footer = () => {
     return (
         <div>
-       
-            <Layout style={{background:"black"}}>
+       <hr/>
+            <Layout style={{background:"white"}}>
                 <Row justify="center" >
-                    <h1 style={{color:"darkorange",textDecoration:"underline"}}>Dreamer</h1>
+                    <h1 style={{color:"darkgreen",textDecoration:"underline"}}>RV-Fitness</h1>
                 </Row>
 
                 <Row justify="center">
                     <Col span={6} style={Footertext}>
                         Community
-                    <div style={{ display: "flex", flexDirection: 'column', color: "white", fontWeight: "400" }}>
+                    <div style={{ display: "flex", flexDirection: 'column', color: "black", fontWeight: "400" }}>
                             <span style={{ padding: "5px" }}>Events</span>
                             <span style={{ padding: "5px" }}>Blog</span>
                             <span style={{ padding: "5px" }}>Forums</span>
@@ -43,8 +43,8 @@ const Footer = () => {
                     </Col>
                     <Col span={6} style={Footertext}>
                         Support
-                        <div style={{ display: "flex", flexDirection: 'column', color: "white", fontWeight: "400" }}>
-                            <Link to=""><span style={{ padding: "5px",color:"white" }}>Help & Support</span></Link>
+                        <div style={{ display: "flex", flexDirection: 'column', color: "black", fontWeight: "400" }}>
+                            <Link to=""><span style={{ padding: "5px",color:"black" }}>Help & Support</span></Link>
                             <span style={{ padding: "5px" }}>Trust & Saftey</span>
                             <span style={{ padding: "5px" }}>Selling</span>
 
@@ -53,7 +53,7 @@ const Footer = () => {
                     </Col>
                     <Col span={6} style={Footertext}>
                         About us
-                        <div style={{ display: "flex", flexDirection: 'column', color: "white", fontWeight: "400" }}>
+                        <div style={{ display: "flex", flexDirection: 'column', color: "black", fontWeight: "400" }}>
                             <span style={{ padding: "5px" }}>Careers</span>
                             <span style={{ padding: "5px" }}>Partnerships</span>
                             <span style={{ padding: "5px" }}>Privacy policy</span>
@@ -65,7 +65,7 @@ const Footer = () => {
                     </Col>
                 </Row>
                 <Row justify="center">
-                    <p style={{ color: 'white' }}>Freelance International Ltd. 2021</p>
+                    <p style={{ color: 'black' }}>Freelance International Ltd. 2021</p>
                 </Row>
                 <Row justify="center">
 
@@ -79,7 +79,7 @@ const Footer = () => {
                     <Col>
                         <GlobalOutlined style={{ paddingLeft: "2rem" }} />
                     </Col>
-                    <p style={{ color: 'white', paddingRight: "2rem" }}>English</p>
+                    <p style={{ color: 'black', paddingRight: "2rem" }}>English</p>
 
                 </Row>
             </Layout>

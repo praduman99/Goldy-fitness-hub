@@ -9,6 +9,7 @@ import img5 from '../assets/images/img5.jpg'
 import img3 from '../assets/images/img3.jpg'
 
 import img6 from '../assets/images/img6.jpg'
+import banner from '../assets/images/banner.png'
 import goldysir from '../assets/images/goldysir.jpeg'
 import simg1 from '../assets/images/students/1.jpeg'
 import simg2 from '../assets/images/students/2.jpeg'
@@ -47,7 +48,7 @@ const Homepage = () => {
                                     <h1 className="Header_heading animate__animated animate__bounceInUp"> Be Stronger Than Your Excuse !</h1>
                                     <Divider type="horizontal" style={{ color: "darkorange", fontWeight: "900", fontSize: "2rem" }}>___________</Divider>
                                     <div style={{ display: "flex", justifyContent: "center" }}>
-                                        <p className="Heading_Text  animate__animated animate__bounceInDown" >Affordable Best Freelance Music Producer & Composer and many more Services. Hire a Best Music Frelancer today and get your dreams true by making creating music projects.</p>
+                                        <p className="Heading_Text  animate__animated animate__bounceInDown" >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
                                     </div>
                                     <div style={{ textAlign: "center", paddingBottom: "10rem" }}>
                                         {/* <Link to="Categories">
@@ -118,7 +119,28 @@ const Homepage = () => {
                         <h1 className="hompage_jmbotron">One Day or Day One You decide   </h1>
 
                     </Row>
-                    <h1 style={{textAlign:'center'}} className="animate__animated animate__bounce animate__infinite	infinite">
+                    <h1 style={{textAlign:'center'}} className="animate__animated animate__bounceIn animate__infinite	infinite">
+                         Our Online Programs
+                        </h1>
+                    <Row gutter={20}justify={'center'}>
+
+                                   
+                       
+                       
+                        <Col span={18}>
+                        {/* <Carousel autoplay pauseOnHover={false} dots={false}>
+
+                    {[simg1,simg2,simg3,simg4,simg5,simg6].map((img, indx) => {
+                        return (<div key={indx} style={{ top: 0, left: 0, background: 'black', opacity: ".5" }}>
+                            <Image src={img} preview={false} height='auto' width="100%" style={{ position: "center" }} />
+                        </div>)
+                    })}
+
+                </Carousel> */}
+                <Image src={banner} />
+                </Col>
+                    </Row>
+                    <h1 style={{textAlign:'center'}} className="animate__animated  animate__infinite	infinite">
                           Some Of Trained  Students
                         </h1>
                     <Row gutter={20}justify={'center'}>
@@ -127,6 +149,7 @@ const Homepage = () => {
                        
                        
                         <Col span={18}>
+                            
                         <Carousel autoplay pauseOnHover={false} dots={false}>
 
                     {[simg1,simg2,simg3,simg4,simg5,simg6].map((img, indx) => {
@@ -138,6 +161,7 @@ const Homepage = () => {
                 </Carousel>
                 </Col>
                     </Row>
+                 
                 </div>
 
             </div>

@@ -22,8 +22,8 @@ const NavbarRouterdom = (props) => {
             <Homepage />
 
 
-            {/* 
-            <Footer /> */}
+            
+            <Footer />
         </Router>
     );
 }
