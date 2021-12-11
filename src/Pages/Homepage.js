@@ -127,7 +127,7 @@ const Homepage = () => {
                                    
                        
                        
-                        <Col span={18}>
+                        <Col >
                         {/* <Carousel autoplay pauseOnHover={false} dots={false}>
 
                     {[simg1,simg2,simg3,simg4,simg5,simg6].map((img, indx) => {
@@ -139,6 +139,9 @@ const Homepage = () => {
                 </Carousel> */}
                 <Image src={banner} />
                 </Col>
+                <Col>
+                <Image src={img5}/></Col>
+            
                     </Row>
                     <h1 style={{textAlign:'center'}} className="animate__animated  animate__infinite	infinite">
                           Some Of Trained  Students
