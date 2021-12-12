@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/rvFitness/static/css/main.8ea132f8.chunk.css",
-    "main.js": "/rvFitness/static/js/main.00d2b82d.chunk.js",
-    "main.js.map": "/rvFitness/static/js/main.00d2b82d.chunk.js.map",
-    "runtime-main.js": "/rvFitness/static/js/runtime-main.31b583db.js",
-    "runtime-main.js.map": "/rvFitness/static/js/runtime-main.31b583db.js.map",
+    "main.js": "/rvFitness/static/js/main.b07741a0.chunk.js",
+    "main.js.map": "/rvFitness/static/js/main.b07741a0.chunk.js.map",
+    "runtime-main.js": "/rvFitness/static/js/runtime-main.76509ccd.js",
+    "runtime-main.js.map": "/rvFitness/static/js/runtime-main.76509ccd.js.map",
     "static/css/2.ae35383f.chunk.css": "/rvFitness/static/css/2.ae35383f.chunk.css",
-    "static/js/2.2339b610.chunk.js": "/rvFitness/static/js/2.2339b610.chunk.js",
-    "static/js/2.2339b610.chunk.js.map": "/rvFitness/static/js/2.2339b610.chunk.js.map",
-    "static/js/3.91bc05a0.chunk.js": "/rvFitness/static/js/3.91bc05a0.chunk.js",
-    "static/js/3.91bc05a0.chunk.js.map": "/rvFitness/static/js/3.91bc05a0.chunk.js.map",
+    "static/js/2.63a8ebd5.chunk.js": "/rvFitness/static/js/2.63a8ebd5.chunk.js",
+    "static/js/2.63a8ebd5.chunk.js.map": "/rvFitness/static/js/2.63a8ebd5.chunk.js.map",
+    "static/js/3.f5d6372f.chunk.js": "/rvFitness/static/js/3.f5d6372f.chunk.js",
+    "static/js/3.f5d6372f.chunk.js.map": "/rvFitness/static/js/3.f5d6372f.chunk.js.map",
     "index.html": "/rvFitness/index.html",
     "static/css/2.ae35383f.chunk.css.map": "/rvFitness/static/css/2.ae35383f.chunk.css.map",
     "static/css/main.8ea132f8.chunk.css.map": "/rvFitness/static/css/main.8ea132f8.chunk.css.map",
-    "static/js/2.2339b610.chunk.js.LICENSE.txt": "/rvFitness/static/js/2.2339b610.chunk.js.LICENSE.txt",
+    "static/js/2.63a8ebd5.chunk.js.LICENSE.txt": "/rvFitness/static/js/2.63a8ebd5.chunk.js.LICENSE.txt",
     "static/media/1.d26f73b2.jpeg": "/rvFitness/static/media/1.d26f73b2.jpeg",
     "static/media/2.bb439a0b.jpeg": "/rvFitness/static/media/2.bb439a0b.jpeg",
     "static/media/3.c73a10ce.jpeg": "/rvFitness/static/media/3.c73a10ce.jpeg",
@@ -29,13 +29,13 @@
     "static/media/img5.f7c56bd6.jpg": "/rvFitness/static/media/img5.f7c56bd6.jpg",
     "static/media/logo.41ac4922.png": "/rvFitness/static/media/logo.41ac4922.png",
     "static/media/logo.6ce24c58.svg": "/rvFitness/static/media/logo.6ce24c58.svg",
-    "static/media/rohitsir.c686fa36.png": "/rvFitness/static/media/rohitsir.c686fa36.png"
+    "static/media/rohitsir.7691ca5f.png": "/rvFitness/static/media/rohitsir.7691ca5f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.31b583db.js",
+    "static/js/runtime-main.76509ccd.js",
     "static/css/2.ae35383f.chunk.css",
-    "static/js/2.2339b610.chunk.js",
+    "static/js/2.63a8ebd5.chunk.js",
     "static/css/main.8ea132f8.chunk.css",
-    "static/js/main.00d2b82d.chunk.js"
+    "static/js/main.b07741a0.chunk.js"
   ]
 }
