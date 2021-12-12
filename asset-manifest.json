@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rvFitness/static/css/main.8ea132f8.chunk.css",
-    "main.js": "/rvFitness/static/js/main.b07741a0.chunk.js",
-    "main.js.map": "/rvFitness/static/js/main.b07741a0.chunk.js.map",
+    "main.css": "/rvFitness/static/css/main.cfe0ae69.chunk.css",
+    "main.js": "/rvFitness/static/js/main.2de8c43c.chunk.js",
+    "main.js.map": "/rvFitness/static/js/main.2de8c43c.chunk.js.map",
     "runtime-main.js": "/rvFitness/static/js/runtime-main.76509ccd.js",
     "runtime-main.js.map": "/rvFitness/static/js/runtime-main.76509ccd.js.map",
     "static/css/2.ae35383f.chunk.css": "/rvFitness/static/css/2.ae35383f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.f5d6372f.chunk.js.map": "/rvFitness/static/js/3.f5d6372f.chunk.js.map",
     "index.html": "/rvFitness/index.html",
     "static/css/2.ae35383f.chunk.css.map": "/rvFitness/static/css/2.ae35383f.chunk.css.map",
-    "static/css/main.8ea132f8.chunk.css.map": "/rvFitness/static/css/main.8ea132f8.chunk.css.map",
+    "static/css/main.cfe0ae69.chunk.css.map": "/rvFitness/static/css/main.cfe0ae69.chunk.css.map",
     "static/js/2.63a8ebd5.chunk.js.LICENSE.txt": "/rvFitness/static/js/2.63a8ebd5.chunk.js.LICENSE.txt",
     "static/media/1.d26f73b2.jpeg": "/rvFitness/static/media/1.d26f73b2.jpeg",
     "static/media/2.bb439a0b.jpeg": "/rvFitness/static/media/2.bb439a0b.jpeg",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.76509ccd.js",
     "static/css/2.ae35383f.chunk.css",
     "static/js/2.63a8ebd5.chunk.js",
-    "static/css/main.8ea132f8.chunk.css",
-    "static/js/main.b07741a0.chunk.js"
+    "static/css/main.cfe0ae69.chunk.css",
+    "static/js/main.2de8c43c.chunk.js"
   ]
 }
